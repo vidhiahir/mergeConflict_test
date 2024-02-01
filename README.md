@@ -1,0 +1,2 @@
+# mergeConflict_test
+Practice
